@@ -1,0 +1,3 @@
+[submodule "references/prism"]
+	path = references/prism
+	url = git@github.com:ruby/prism.git
